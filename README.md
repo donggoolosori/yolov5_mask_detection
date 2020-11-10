@@ -13,3 +13,5 @@ object loss at 500 epochs is higher  than 100 epochs.
 <img width="720" alt="스크린샷 2020-11-10 오후 9 52 23" src="https://user-images.githubusercontent.com/53213397/98676654-3885d800-239f-11eb-8137-4266757ed8a6.png">
 
 # Detection Result
+<img width="1440" alt="스크린샷 2020-11-10 오후 10 01 09" src="https://user-images.githubusercontent.com/53213397/98677454-615a9d00-23a0-11eb-9a22-7450ed604945.png">
+<img width="1440" alt="스크린샷 2020-11-10 오후 10 00 58" src="https://user-images.githubusercontent.com/53213397/98677475-6881ab00-23a0-11eb-9048-968b4504566e.png">
