@@ -1,7 +1,7 @@
 # Description
 mask detection with yolo v5
 # Model Evaluation
-red = epochs 500, blue = epochs 100
+red = epochs 100, blue = epochs 500
 ## 1. metrics
 <img width="736" alt="스크린샷 2020-11-10 오후 9 48 18" src="https://user-images.githubusercontent.com/53213397/98676236-abdb1a00-239e-11eb-8d11-cb4c4a1f654a.png">
 
